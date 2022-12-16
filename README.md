@@ -1,4 +1,4 @@
-# React Classic Components
+# React Components
 
 ## Component configrator
 React + Material UI
