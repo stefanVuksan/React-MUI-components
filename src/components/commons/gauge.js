@@ -38,7 +38,7 @@ const Gauge = ({
 
   let min = 0
   let max = 0
-  data.map((val, ind) => max += val.value)
+  data?.map((val, ind) => max += val.value)
   let strokeValue = data[0].value
   let obliqueValue = data[2] ? data[0].value + data[2].value : 0
   const styleProps = {
