@@ -859,8 +859,7 @@ function MyApp() {
       <StockTable {...StockTableProps} />
       Frame30
       <Employer {...EmployerProps} />
-      Frame31
-      <Gauge />
+      Frame31      
       Frame32
       <Last {...LastProps} />
       Frame19
